@@ -1,0 +1,463 @@
+﻿Fylke;Kommune;Vb,0;omrade
+Akershus;Asker;22;1
+Akershus;Aurskog-Høland;22;1
+Akershus;Bærum;22;1
+Akershus;Eidsvoll;22;1
+Akershus;Enebakk;22;1
+Akershus;Fet;22;1
+Akershus;Frogn;22;1
+Akershus;Gjerdrum;22;1
+Akershus;Hurdal;22;1
+Akershus;Lørenskog;22;1
+Akershus;Nannestad;22;1
+Akershus;Nes;22;1
+Akershus;Nesodden;22;1
+Akershus;Nittedal;22;1
+Akershus;Oppegård;22;1
+Akershus;Rælingen;22;1
+Akershus;Skedsmo;22;1
+Akershus;Ski;22;1
+Akershus;Sørum;22;1
+Akershus;Ullensaker;22;1
+Akershus;Ås;22;1
+Akershus;Vestby;24;1
+;;;
+Aust-Agder;Arendal;26;1
+Aust-Agder;Birkenes;24;1
+Aust-Agder;Bygland;24;1
+Aust-Agder;Bykle;24;1
+Aust-Agder;Evje og Hornnes;24;1
+Aust-Agder;Froland;24;1
+Aust-Agder;Gjerstad;24;1
+Aust-Agder;Grimstad;26;1
+Aust-Agder;Iveland;24;1
+Aust-Agder;Lillesand;26;1
+Aust-Agder;Risør;26;1
+Aust-Agder;Tvedestrand;26;1
+Aust-Agder;Valle;24;1
+Aust-Agder;Vegårshei;24;1
+Aust-Agder;Åmli;24;1
+;;;
+Buskerud;Drammen;22;1
+Buskerud;Flå;22;1
+Buskerud;Flesberg;22;1
+Buskerud;Gol;22;1
+Buskerud;Hemsedal;24;1
+Buskerud;Hol;24;1
+Buskerud;Hole;22;1
+Buskerud;Hurum;24;1
+Buskerud;Kongsberg;22;1
+Buskerud;Krødsherad;22;1
+Buskerud;Lier;22;1
+Buskerud;Modum;22;1
+Buskerud;Nedre Eiker;22;1
+Buskerud;Nes;22;1
+Buskerud;Nore og Uvdal;24;1
+Buskerud;Ringerike;22;1
+Buskerud;Rollag;22;1
+Buskerud;Røyken;22;1
+Buskerud;Sigdal;22;1
+Buskerud;Øvre Eiker;22;1
+Buskerud;Ål;24;1
+;;;
+Finnmark;Alta;28;3
+Finnmark;Alta;28;3
+Finnmark;Båtsfjord;29;3
+Finnmark;Berlevåg;30;3
+Finnmark;Deatnu Tana;27;3
+Finnmark;Gamvik;30;3
+Finnmark;Hammerfest;29;3
+Finnmark;Hasvik;30;3
+Finnmark;Karasjok;24;3
+Finnmark;Kautokeino;24;3
+Finnmark;Kirkenes;29;3
+Finnmark;Kvalsund;29;3
+Finnmark;Lebesby;29;3
+Finnmark;Loppa;29;3
+Finnmark;Måsøy;30;3
+Finnmark;Nesseby;27;3
+Finnmark;Nordkapp;30;3
+Finnmark;Porsanger;27;3
+Finnmark;Sør-Varanger;29;3
+Finnmark;Tana;27;3
+Finnmark;Vadsø;29;3
+Finnmark;Vardø;30;3
+;;;
+Hedmark;Alvdal;24;1
+Hedmark;Eidskog;22;1
+Hedmark;Elverum;22;1
+Hedmark;Engerdal;22;1
+Hedmark;Folldal;24;1
+Hedmark;Grue;22;1
+Hedmark;Hamar;22;1
+Hedmark;Kongsvinger;22;1
+Hedmark;Løten;22;1
+Hedmark;Nord-Odal;22;1
+Hedmark;Os;24;1
+Hedmark;Rendalen;22;1
+Hedmark;Ringsaker;22;1
+Hedmark;Stange;22;1
+Hedmark;Stor-Elvdal;22;1
+Hedmark;Sør-Odal;22;1
+Hedmark;Tolga;24;1
+Hedmark;Trysil;22;1
+Hedmark;Tynset;24;1
+Hedmark;Våler;22;1
+Hedmark;Kvikne;22;1
+Hedmark;Åmot;22;1
+Hedmark;Åsnes;22;1
+;;;
+Hordaland;Askøy;26;1
+Hordaland;Austevoll;28;1
+Hordaland;Austrheim;28;1
+Hordaland;Bergen;26;1
+Hordaland;Bjørnafjorden;26;1
+Hordaland;Bømlo;28;1
+Hordaland;Eidfjord;26;1
+Hordaland;Etne;24;1
+Hordaland;Fedje;30;1
+Hordaland;Fitjar;26;1
+Hordaland;Fjell;28;1
+Hordaland;Granvin;24;1
+Hordaland;Sund;28;1
+Hordaland;Fusa;26;1
+Hordaland;Jondal;26;1
+Hordaland;Kvam;24;1
+Hordaland;Kvinnherad;26;1
+Hordaland;Lindås;26;1
+Hordaland;Masfjorden;26;1
+Hordaland;Meland;26;1
+Hordaland;Modalen;24;1
+Hordaland;Odda;26;1
+Hordaland;Os;26;1
+Hordaland;Osterøy;25;1
+Hordaland;Øygarden;29;1
+Hordaland;Radøy;27;1
+Hordaland;Samnanger;24;1
+;;;
+Hordaland;Stord;26;1
+Hordaland;Sveio;26;1
+Hordaland;Tysnes;26;1
+Hordaland;Ullensvang;26;1
+Hordaland;Ulvik;24;1
+Hordaland;Vaksdal;24;1
+Hordaland;Voss;24;1
+;;;
+Møre og Romsdal;Gjermnes;28;1
+Møre og Romsdal;Aukra;30;1
+Møre og Romsdal;Aure;29;1
+Møre og Romsdal;Averøy;30;1
+Møre og Romsdal;Eide;29;1
+Møre og Romsdal;Fræna;30;1
+Møre og Romsdal;Giske;30;1
+Møre og Romsdal;Halsa;29;1
+Møre og Romsdal;Haram;30;1
+Møre og Romsdal;Hareid;29;1
+Møre og Romsdal;Herøy;30;1
+Møre og Romsdal;Kristiansund;30;1
+Møre og Romsdal;Molde;29;1
+Møre og Romsdal;Nesset;26;1
+Møre og Romsdal;Norddal;26;1
+Møre og Romsdal;Ørsta;28;1
+Møre og Romsdal;Rauma;28;1
+Møre og Romsdal;Rindal;25;1
+Møre og Romsdal;Sande;30;1
+Møre og Romsdal;Sandøy;31;1
+Møre og Romsdal;Smøla;30;1
+Møre og Romsdal;Sula;29;1
+Møre og Romsdal;Sunndal;27;1
+Møre og Romsdal;Surnadal;25;1
+Møre og Romsdal;Sykkylven;28;1
+Møre og Romsdal;Tingvoll;28;1
+Møre og Romsdal;Ulstein;30;1
+Møre og Romsdal;Vanylven;30;1
+Møre og Romsdal;Volda;28;1
+Møre og Romsdal;Ørskog;28;1
+Møre og Romsdal;Ålesund;29;1
+Møre og Romsdal;Vestnes;28;1
+Møre og Romsdal;Tustna;30;1
+Møre og Romsdal;Midsund;30;1
+Møre og Romsdal;Skodje;29;1
+Møre og Romsdal;Stranda;26;1
+Møre og Romsdal;Stordal;26;1
+Møre og Romsdal;Frei;29;1
+;;;
+Nordland;Alstahaug;30;2
+Nordland;Andøy;31;2
+Nordland;Ballangen;27;2
+Nordland;Beiarn;26;2
+Nordland;Bindal;30;2
+Nordland;Bodø;30;2
+Nordland;Brønnøy;29;2
+Nordland;Bø;29;2
+Nordland;Dønna;30;2
+Nordland;Evenes;26;2
+Nordland;Fauske;26;2
+Nordland;Flakstad;30;2
+Nordland;Gildeskål;29;2
+Nordland;Grane;26;2
+Nordland;Hadsel;29;2
+Nordland;Hamarøy;28;2
+Nordland;Hattfjelldal;26;2
+Nordland;Hemnes;26;2
+Nordland;Herøy;30;2
+Nordland;Leirfjord;30;2
+Nordland;Lødingen;29;2
+Nordland;Lurøy;30;2
+Nordland;Meløy;29;2
+Nordland;Skjerstad;26;2
+Nordland;Narvik;28;2
+Nordland;Nesna;30;2
+Nordland;Rana;26;2
+Nordland;Rødøy;29;2
+Nordland;Røst;31;2
+Nordland;Saltdal;26;2
+Nordland;Sortland;28;2
+Nordland;Steigen;29;2
+Nordland;Sømna;30;2
+Nordland;Sørfold;26;2
+Nordland;Tjeldsund;27;2
+Nordland;Træna;31;2
+Nordland;Vega;30;2
+Nordland;Værøy;31;2
+Nordland;Vefsn;28;2
+Nordland;Moskenes;31;2
+Nordland;Vestvågøy;30;2
+Nordland;Vevelstad;28;2
+Nordland;Vågan;29;2
+Nordland;Øksnes;29;2
+Nordland;Tysfjord;27;2
+;;;
+Oppland;Eidskog;22;1
+Oppland;Etnedal;22;1
+Oppland;Gausdal;22;1
+Oppland;Gjøvik;22;1
+Oppland;Gran;22;1
+Oppland;Jevnaker;22;1
+Oppland;Lesja;25;1
+Oppland;Lillehammer;22;1
+Oppland;Lom;24;1
+Oppland;Nord-Aurdal;22;1
+Oppland;Nord-Fron;22;1
+Oppland;Nordre Land;22;1
+Oppland;Ringebu;22;1
+Oppland;Sel;22;1
+Oppland;Skjåk;25;1
+Oppland;Søndre Land;22;1
+Oppland;Sør-Aurdal;22;1
+Oppland;Sør-Fron;22;1
+Oppland;Vang;24;1
+Oppland;Vestre Slidre;22;1
+Oppland;Vestre Toten;22;1
+Oppland;Vågå;23;1
+Oppland;Lunner;22;1
+Oppland;Østre Toten;22;1
+Oppland;Øyer;22;1
+Oppland;Øystre Slidre;22;1
+Oppland;Dovre;24;1
+;;;
+Oslo;Oslo;22;1
+;;;
+Rogaland;Bjerkreim;26;1
+Rogaland;Bokn;28;1
+Rogaland;Eigersund;27;1
+Rogaland;Finnøy;26;1
+Rogaland;Forsand;26;1
+Rogaland;Gjesdal;26;1
+Rogaland;Hå;29;1
+Rogaland;Haugesund;28;1
+Rogaland;Hjelmeland;24;1
+;;;
+Rogaland;Klepp;28;1
+Rogaland;Kvitsøy;29;1
+Rogaland;Karmøy;30;1
+Rogaland;Lund;26;1
+Rogaland;Randaberg;28;1
+Rogaland;Rennesøy;28;1
+Rogaland;Sandnes;26;1
+Rogaland;Sauda;24;1
+Rogaland;Sokndal;27;1
+Rogaland;Sola;28;1
+Rogaland;Stavanger;26;1
+Rogaland;Strand;26;1
+Rogaland;Suldal;24;1
+Rogaland;Time;28;1
+Rogaland;Tysvær;26;1
+Rogaland;Utsira;30;1
+Rogaland;Vindafjord;24;1
+Rogaland;Ølen;26;1
+;;;
+Sogn og Fjordane;Leikanger;24;1
+Sogn og Fjordane;Askvoll;28;1
+Sogn og Fjordane;Aurland;25;1
+Sogn og Fjordane;Bremanger;29;1
+Sogn og Fjordane;Eid;26;1
+Sogn og Fjordane;Fjaler;26;1
+Sogn og Fjordane;Flora;28;1
+Sogn og Fjordane;Førde;26;1
+Sogn og Fjordane;Gaular;26;1
+Sogn og Fjordane;Gloppen;26;1
+Sogn og Fjordane;Gulen;28;1
+Sogn og Fjordane;Hornindal;26;1
+Sogn og Fjordane;Hyllestad;26;1
+Sogn og Fjordane;Høyanger;26;1
+Sogn og Fjordane;Jølster;24;1
+Sogn og Fjordane;Balestand;24;1
+Sogn og Fjordane;Luster;24;1
+Sogn og Fjordane;Lærdal;26;1
+Sogn og Fjordane;Naustdal;26;1
+Sogn og Fjordane;Selje;31;1
+Sogn og Fjordane;Sogndal;24;1
+Sogn og Fjordane;Solund;29;1
+Sogn og Fjordane;Stryn;24;1
+Sogn og Fjordane;Vågsøy;31;1
+Sogn og Fjordane;Vik;24;1
+Sogn og Fjordane;Årdal;24;1
+Sogn og Fjordane;Balestrand;24;1
+;;;
+Sør-Trøndelag;Agdenes;27;1
+Sør-Trøndelag;Bjugn;29;1
+Sør-Trøndelag;Frøya;30;1
+;;;
+Sør-Trøndelag;Hemne;28;1
+Sør-Trøndelag;Hitra;30;1
+Sør-Trøndelag;Holtålen;25;1
+Sør-Trøndelag;Klæbu;25;1
+Sør-Trøndelag;Malvik;26;1
+Sør-Trøndelag;Meldal;25;1
+Sør-Trøndelag;Melhus;25;1
+Sør-Trøndelag;Midtre Gauldal;25;1
+Sør-Trøndelag;Oppdal;26;1
+Sør-Trøndelag;Orkdal;25;1
+Sør-Trøndelag;Osen;29;1
+Sør-Trøndelag;Rennebu;26;1
+Sør-Trøndelag;Rissa;27;1
+Sør-Trøndelag;Roan;29;1
+Sør-Trøndelag;Røros;25;1
+Sør-Trøndelag;Selbu;25;1
+Sør-Trøndelag;Skaun;25;1
+Sør-Trøndelag;Snillfjord;27;1
+Sør-Trøndelag;Trondheim;26;1
+Sør-Trøndelag;Tydal;25;1
+Sør-Trøndelag;Ørland;30;1
+Sør-Trøndelag;Åfjord;29;1
+;;;
+Telemark;Bø;23;1
+Telemark;Drangedal;22;1
+Telemark;Fyresdal;24;1
+Telemark;Hjartdal;22;1
+Telemark;Kragerø;24;1
+Telemark;Kviteseid;22;1
+Telemark;Nissedal;22;1
+Telemark;Nome;22;1
+Telemark;Porsgrunn;22;1
+Telemark;Sauherad;22;1
+Telemark;Seljord;22;1
+Telemark;Siljan;22;1
+Telemark;Skien;22;1
+Telemark;Tinn;24;1
+Telemark;Tokke;24;1
+Telemark;Vinje;24;1
+Telemark;Bamble;23;1
+Telemark;Notodden;22;1
+;;;
+Troms;Bardu;24;2
+Troms;Berg;30;2
+Troms;Dyrøy;27;2
+Troms;Gratangen;26;2
+Troms;Harstad;27;2
+Troms;Ibestad;26;2
+Troms;Karlsøy;29;2
+Troms;Kvæfjord;28;2
+Troms;Lavangen;26;2
+Troms;Lenvik;27;2
+Troms;Lyngen;26;2
+Troms;Målselv;24;2
+Troms;Nordreisa;27;2
+Troms;Salangen;26;2
+Troms;Skjervøy;28;2
+Troms;Sørreisa;26;2
+Troms;Storfjord;24;2
+Troms;Torsken;30;2
+Troms;Tranøy;27;2
+Troms;Tromsø;27;2
+Troms;Kåfjord;25;2
+Troms;Balsfjord;26;2
+Troms;Skånland;26;2
+Troms;Bjakøy;28;2
+Troms;Kvænangen;28;2
+;;;
+Vest-Agder;Audnedal;24;1
+Vest-Agder;Farsund;28;1
+Vest-Agder;Flekkefjord;26;1
+Vest-Agder;Hægebostad;24;1
+Vest-Agder;Kristiansand;26;1
+Vest-Agder;Kvinesdal;24;1
+Vest-Agder;Lindesnes;28;1
+Vest-Agder;Lyngdal;26;1
+Vest-Agder;Mandal;28;1
+Vest-Agder;Marnardal;24;1
+Vest-Agder;Sirdal;24;1
+Vest-Agder;Songdalen;24;1
+Vest-Agder;Søgne;26;1
+Vest-Agder;Vennesla;24;1
+Vest-Agder;Åseral;24;1
+;;;
+Vestfold;Andebu;23;1
+Vestfold;Holmestrand;23;1
+Vestfold;Horten;23;1
+Vestfold;Lardal;22;1
+Vestfold;Larvik;25;1
+Vestfold;Nøtterøy;24;1
+Vestfold;Re;23;1
+Vestfold;Sande;23;1
+Vestfold;Sandefjord;24;1
+Vestfold;Stokke;24;1
+Vestfold;Svelvik;23;1
+Vestfold;Tjøme;26;1
+Vestfold;Tønsberg;24;1
+Vestfold;Hof;22;1
+;;;
+Østfold;Aremark;22;1
+Østfold;Askim;22;1
+Østfold;Eidsberg;22;1
+Østfold;Fredrikstad;26;1
+Østfold;Halden;24;1
+Østfold;Hobøl;22;1
+Østfold;Hvaler;27;1
+Østfold;Marker;22;1
+Østfold;Moss;24;1
+Østfold;Rakkestad;22;1
+Østfold;Rømskog;22;1
+Østfold;Råde;24;1
+Østfold;Rygge;24;1
+Østfold;Sarpsborg;24;1
+Østfold;Skiptvet;22;1
+Østfold;Spydeberg;22;1
+Østfold;Trøgstad;22;1
+Østfold;Våler;24;1
+;;;
+Nord-Trøndelag;Lierne;24;2
+Nord-Trøndelag;Meråker;25;2
+Nord-Trøndelag;Røyrvik;25;2
+Nord-Trøndelag;Snåsa;25;2
+Nord-Trøndelag;Frosta;26;2
+Nord-Trøndelag;Grong;26;2
+Nord-Trøndelag;Høylandet;26;2
+Nord-Trøndelag;Inderøy;26;2
+Nord-Trøndelag;Leksvik;26;2
+Nord-Trøndelag;Levanger;26;2
+Nord-Trøndelag;Mosvik;26;2
+Nord-Trøndelag;Namdalseid;26;2
+Nord-Trøndelag;Namsos;26;2
+Nord-Trøndelag;Namsskogan;26;2
+Nord-Trøndelag;Overhalla;26;2
+Nord-Trøndelag;Steinkjer;26;2
+Nord-Trøndelag;Stjørdal;26;2
+Nord-Trøndelag;Verdal;26;2
+Nord-Trøndelag;Verran;26;2
+Nord-Trøndelag;Flatanger;29;2
+Nord-Trøndelag;Fosnes;29;2
+Nord-Trøndelag;Leka;29;2
+Nord-Trøndelag;Nærøy;29;2
+Nord-Trøndelag;Vikna;30;2
